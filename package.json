@@ -1,0 +1,17 @@
+{
+  "name": "capitalize-first-letter-string",
+  "version": "1.0.7",
+  "description": "A simple package to capitalize the first character of a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "capitalize",
+    "string",
+    "uppercase",
+    "text"
+  ],
+  "author": "Wazeer ahmad",
+  "license": "MIT"
+}
